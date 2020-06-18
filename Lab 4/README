@@ -1,0 +1,5 @@
+The purpose of this lab is to give you experience with implementing locks, and
+(optionally) condition variables using the FRDM-K64F microcontroller. To successfully
+complete this lab, you will need to understand the following,
+• Concurrency (Lab 3)
+• Locks
